@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nimap Task\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\service\\serviceimpl\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:service\\serviceimpl\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\service\\serviceimpl\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:service\\serviceimpl\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|d:\\nimap task\\crud\\cruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F4763-1F31-43FC-B7F1-49545362A500}|CRUD.csproj|solutionrelative:cruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:16:13.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\Service\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\IService\\IProductService.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\Service\\IService\\IProductService.cs",
+              "RelativeToolTip": "Service\\IService\\IProductService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:32:40.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:31:00.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:16:23.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:31:21.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\Service\\ServiceImpl\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ServiceImpl\\ProductService.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\Service\\ServiceImpl\\ProductService.cs",
+              "RelativeToolTip": "Service\\ServiceImpl\\ProductService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:41:16.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\Service\\ServiceImpl\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\ServiceImpl\\CategoryService.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\Service\\ServiceImpl\\CategoryService.cs",
+              "RelativeToolTip": "Service\\ServiceImpl\\CategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:41:04.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:29:50.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUDDBContext.cs",
+              "DocumentMoniker": "D:\\Nimap Task\\CRUD\\CRUDDBContext.cs",
+              "RelativeDocumentMoniker": "CRUDDBContext.cs",
+              "ToolTip": "D:\\Nimap Task\\CRUD\\CRUDDBContext.cs",
+              "RelativeToolTip": "CRUDDBContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:56:41.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
